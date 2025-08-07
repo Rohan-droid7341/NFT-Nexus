@@ -9,8 +9,8 @@ import "./createNFT.css"; // Import the new CSS
 
 // --- Configuration (Keep your original keys) ---
 const contractAddress = "0x13b8718898f70eF57424295b1b6A1eae3F5a0238";
-const PINATA_KEY = "fe69f6a53d013adf87ea"; // Use your key
-const SECRET_API = "12faf1acd578dc3f6d0e286b2ca124f8d5f0a49890c7ff5a12f92fb7f90afb7d"; // Use your secret
+const PINATA_KEY = "1ce3f0a779030d3754f6"; // Use your key
+const SECRET_API = "a6ed01bc211f51ba7d6b31b9019fd5fd23f7f7c3ff740190b26b82d66258ce27"; // Use your secret
 // IMPORTANT: For production, move these to environment variables!
 
 const pinataBaseURL = "https://api.pinata.cloud/pinning";

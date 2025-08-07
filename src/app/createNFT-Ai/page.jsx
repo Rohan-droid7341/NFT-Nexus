@@ -9,8 +9,8 @@ import NFTMarketplace from "../../contract_data/NFTMarketplace.json";
 import "./createNFT.css"; // Import CSS
 
 const contractAddress = "0x13b8718898f70eF57424295b1b6A1eae3F5a0238";
-const PINATA_KEY = "fe69f6a53d013adf87ea";
-const SECRET_API = "12faf1acd578dc3f6d0e286b2ca124f8d5f0a49890c7ff5a12f92fb7f90afb7d";
+const PINATA_KEY = "1ce3f0a779030d3754f6";
+const SECRET_API = "a6ed01bc211f51ba7d6b31b9019fd5fd23f7f7c3ff740190b26b82d66258ce27";
 
 export default function CreateNFT() {
   const [fileUrl, setFileUrl] = useState(null);
